@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://coppermobile.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Egowall Demo CopperMobile
         </a>
       </header>
     </div>
