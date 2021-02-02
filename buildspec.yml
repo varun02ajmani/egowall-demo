@@ -16,7 +16,7 @@ phases:
     commands:
       #install dependencies
       - echo Installing Dependencies
-      -- yarn
+      - yarn
   buils:
     commands:
       #tests
