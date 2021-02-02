@@ -21,7 +21,7 @@ phases:
     commands:
       #tests
       - echo Testing....
-      #- yarn test
+      #- yarn test for the new app
       - echo building...
       - yarn build
       #build
