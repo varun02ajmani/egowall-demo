@@ -17,7 +17,7 @@ phases:
       #install dependencies
       - echo Installing Dependencies
       - yarn
-  buils:
+  builds:
     commands:
       #tests
       - echo Testing....
